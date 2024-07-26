@@ -1,0 +1,2 @@
+# Djangu
+Django_practice
